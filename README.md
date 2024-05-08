@@ -18,7 +18,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 3. Shared actionable insights with stakeholders based on dashboard findings to support-decision -making processes.
 
-💡 Project Insights- Week 53 (31st Dec):-
+💡 Project Insights- Week 52 (24st Dec):-
 Overview YTD:
 * Overall revenue is 55
 * Total interest is 7.84M
