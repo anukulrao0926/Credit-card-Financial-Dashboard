@@ -1,9 +1,4 @@
 # Credit-card-Financial-Dashboard
-Hello everyone, 
-
-I have created this,
-📊 Power BI Dashboard Project- Credit card transaction and customer weekly report
-
 💡 Project Objective:-
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performances metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
